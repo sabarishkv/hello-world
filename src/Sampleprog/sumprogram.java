@@ -1,5 +1,7 @@
 package Sampleprog;
 
+// This is a sample edit to check in git
+
 public class sumprogram {
 	  
 	public void sum (int a, int b) //void is when you print value	
